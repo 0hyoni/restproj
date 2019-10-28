@@ -1,0 +1,10 @@
+path converter
+- 여러 객체들을 다루는, 계층적인 url을 자동생성할 때 유리 
+(8000/read/1 ...)
+<type : 변수이름>
+type = int, str, uuid ...
+
+
+pk = primary key
+객체들의 이름표, 구분자, 데이터의 대표값
+어떤 값을 데이터의 대표값으로 삼을지는 정의하기 나름
